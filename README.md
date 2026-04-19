@@ -28,6 +28,14 @@ Microsoft Excel / Google Sheets (edit based on what you used)
 Data Cleaning & Transformation Techniques
 Basic Data Visualization
 
+## 📊 Sample Visualizations
+
+![Prototype Confidence](https://github.com/AnushaRajendran144/tinkherhack-survey-analysis/blob/main/Screenshot%202026-04-19%20131454.png?raw=true)
+
+
+![Problem Solving](your-image-link-here)
+
+
 📎 Files Included
 Final Evaluation Report (PDF)
 
