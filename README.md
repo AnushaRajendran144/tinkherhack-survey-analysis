@@ -33,7 +33,9 @@ Basic Data Visualization
 ![Prototype Confidence](https://github.com/AnushaRajendran144/tinkherhack-survey-analysis/blob/main/Screenshot%202026-04-19%20131454.png?raw=true)
 
 
-![Problem Solving](your-image-link-here)
+![Problem Solving](https://github.com/AnushaRajendran144/tinkherhack-survey-analysis/blob/main/Screenshot%202026-04-19%20131544.png?raw=true)
+
+![Prototype Confidence](https://github.com/AnushaRajendran144/tinkherhack-survey-analysis/blob/main/Screenshot%202026-04-19%20131654.png?raw=true)
 
 
 📎 Files Included
